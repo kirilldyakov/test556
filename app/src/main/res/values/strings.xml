@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test556</string>
+    <string name="main_activiti_button_push_me">Push me</string>
 </resources>
