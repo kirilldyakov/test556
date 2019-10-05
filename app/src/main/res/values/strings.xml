@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Test556</string>
     <string name="main_activiti_button_push_me">Push me</string>
+    <string name="activity_main_text_view_text">2020</string>
 </resources>
